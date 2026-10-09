@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Student · Big Data, Data Science & AI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Abdellah-Dlimi"><img src="https://img.shields.io/badge/LinkedIn-Abdellah--Dlimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/abdellah-dlimi-78a719330"><img src="https://img.shields.io/badge/LinkedIn-Abdellah--Dlimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:dlimi1abdellah@gmail.com"><img src="https://img.shields.io/badge/Email-dlimi1abdellah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
